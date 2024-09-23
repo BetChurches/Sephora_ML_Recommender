@@ -13,8 +13,6 @@ La aplicación también está diseñada para ser útil para **nuevos usuarios** 
 
 ![Logo del proyecto](App_newuser.png)
 
-El **conjunto de datos**, extraído de Kaggle, contiene información detallada sobre más de 8k productos y alrededor de 1 millón de reseñas de usuarios, proporcionando una rica base de datos para entrenar un sistema de recomendación robusto.
-
-El corazón del proyecto es un **sistema de recomendación de productos basado en Machine Learning**, que ha sido entrenado para analizar las reseñas de los usuarios y generar recomendaciones personalizadas. El modelo de recomendación utiliza técnicas como el **filtrado colaborativo** y el **análisis de sentimientos** para predecir qué productos serán más adecuados para cada usuario, mejorando su experiencia de compra.
+El corazón del proyecto es un **sistema de recomendación de productos basado en Machine Learning**, a partir del **conjunto de datos**, extraído de Kaggle, que ha sido entrenado para analizar las reseñas de los usuarios y generar recomendaciones personalizadas. El modelo de recomendación utiliza técnicas como el **filtrado colaborativo** y el **análisis de sentimientos** para predecir qué productos serán más adecuados para cada usuario, mejorando su experiencia de compra.
 
 La **aplicación** ha sido desarrollada combinando varios notebooks de Jupyter para el análisis de datos, el procesamiento y el entrenamiento del modelo. Además, se incluye el archivo `appsephora.py`, que gestiona toda la lógica de la aplicación, permitiendo que los usuarios interactúen de manera eficiente con el sistema de recomendación. Esta aplicación puede integrarse fácilmente en un entorno web o utilizarse como backend para otras interfaces de usuario, brindando un sistema de recomendación **preciso y personalizado**.
